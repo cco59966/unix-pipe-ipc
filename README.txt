@@ -1,6 +1,5 @@
-Name: Chibuike Onuoha           ID# 811-486-728
-
 Instructions:
+
 use the following commands to run and/or compile the program.
 
 to compile program use the following command :  make
